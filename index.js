@@ -4,3 +4,6 @@ const shout = (string) => {
 const whisper = (string) => {
   return string.toLowerCase()
 }
+const logShout = (string) => {
+  console.log(string)
+}
