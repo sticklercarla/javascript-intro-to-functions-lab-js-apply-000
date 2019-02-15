@@ -10,3 +10,8 @@ const logShout = (string) => {
 const logWhisper = (string) => {
   cosole.log(string.toLowerCase())
 }
+const sayHiToGrandma = (string) => {
+  if (string.lowerCase) {
+    return "I can't hear you"
+  }
+}
