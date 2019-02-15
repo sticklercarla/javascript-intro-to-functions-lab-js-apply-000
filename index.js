@@ -11,7 +11,7 @@ const logWhisper = (string) => {
   console.log(string.toLowerCase())
 }
 const sayHiToGrandma = (string) => {
-  if (string.toLowerCase) {
+  if (string.) {
     return "I can't hear you!"
   } else (string.toUpperCase) {
     return ""
